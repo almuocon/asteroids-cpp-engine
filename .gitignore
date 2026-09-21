@@ -1,0 +1,27 @@
+# Directorio de compilación
+build/
+bin/
+lib/
+
+# Temporales de compilación
+*.o
+*.a
+*.so
+*.out
+
+# Ejecutables generados
+asteroides
+rebote
+rebotes
+testparticula
+testlista
+testsobrecarga
+
+# Ficheros de partidas o rankings locales
+ranking.txt
+*.log
+
+# Configuraciones de editores / IDEs
+.vscode/
+.idea/
+*.swp
