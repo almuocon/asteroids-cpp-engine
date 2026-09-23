@@ -88,5 +88,5 @@ make -j$(nproc)
 ## 👤 Autor y Agradecimientos
 
 * **Desarrollador:** Almudena O. ([@almuocon](https://github.com/almuocon)) — Estudiante del Grado en Ingeniería Informática en la **Universidad de Granada (ETSIIT - UGR)**.
-* **Marco de apoyo:** Proyecto tutorizado originalmente por el profesorado del **DECSAI (UGR)**.
-* **Biblioteca Gráfica:** **BiGS** (Capa gráfica ligera sobre Allegro 5), desarrollada por el Prof. Javier Martínez Baena.
+* **Marco de apoyo:** Proyecto tutorizado originalmente por el Prof. Javier Martínez Baena y el profesorado del **DECSAI (UGR)**.
+* **Biblioteca Gráfica:** **BiGS** (Capa gráfica ligera sobre Allegro 5)
