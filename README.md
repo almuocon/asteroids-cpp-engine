@@ -13,8 +13,6 @@ Motor y simulación del clásico juego arcade *Asteroids*, desarrollado en **C++
 
 Este proyecto nació originalmente durante el **primer curso del Grado en Ingeniería Informática** en la **Universidad de Granada (UGR)**, dentro del marco de la asignatura *Metodología de la Programación*, con la orientación del profesorado del **Departamento de Ciencias de la Computación e Inteligencia Artificial (DECSAI)**.
 
-Posteriormente ha sido refactorizado y completado para elevarlo a estándares de ingeniería de software profesional, solucionando desacoplamientos cinemáticos, optimizando el bucle principal de juego y diseñando un pipeline de renderizado completo.
-
 ---
 
 ## 🛠️ Aspectos Técnicos y Decisiones de Ingeniería
