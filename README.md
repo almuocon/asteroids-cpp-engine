@@ -66,7 +66,7 @@ make -j$(nproc)
 
 ### Ejecución
 ```bash
-./asteroides -num 4 -disparos 5 -jugador Almu -ranking ranking.txt
+./asteroides -num [num] -disparos [num] -jugador [tu nombre] -ranking ranking.txt
 ```
 
 #### Argumentos de línea de comandos:
