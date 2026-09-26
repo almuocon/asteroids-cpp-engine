@@ -9,13 +9,13 @@ Motor y simulación del clásico juego arcade *Asteroids*, desarrollado en **C++
 
 ---
 
-## 🎓 Contexto Académico
+## Contexto Académico
 
 Este proyecto nació originalmente durante el **primer curso del Grado en Ingeniería Informática** en la **Universidad de Granada (UGR)**, dentro del marco de la asignatura *Metodología de la Programación*, con la orientación del profesorado del **Departamento de Ciencias de la Computación e Inteligencia Artificial (DECSAI)**.
 
 ---
 
-## 🛠️ Aspectos Técnicos y Decisiones de Ingeniería
+## Aspectos Técnicos
 
 * **Cinemática Vectorial Desacoplada:** Simulación newtoniana de inercia espacial en gravedad cero. La rotación angular se desacopla del vector de velocidad lineal para permitir maniobras clásicas de empuje, desaceleración por arrastre (*drag*) progresivo y freno retrógrado activo.
 * **Gestión Dinámica de Memoria:** Implementación de estructuras de datos lineales propias (`ListaParticulas`, gestión de arrays dinámicos en `Clasificacion`) asegurando liberación limpia de memoria (RAII) sin fugas (*memory leaks*).
@@ -26,7 +26,7 @@ Este proyecto nació originalmente durante el **primer curso del Grado en Ingeni
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 asteroids-cpp-engine/
@@ -43,7 +43,7 @@ asteroids-cpp-engine/
 
 ---
 
-## 🚀 Compilación y Ejecución
+## Compilación y Ejecución
 
 ### Requisitos previos
 En distribuciones basadas en Debian/Ubuntu:
@@ -85,7 +85,7 @@ make -j$(nproc)
 
 ---
 
-## 👤 Autor y Agradecimientos
+## Créditos
 
 * **Desarrollador:** Almudena O. ([@almuocon](https://github.com/almuocon)) — Estudiante del Grado en Ingeniería Informática en la **Universidad de Granada (ETSIIT - UGR)**.
 * **Marco de apoyo:** Proyecto tutorizado originalmente por el Prof. Javier Martínez Baena y el profesorado del **DECSAI (UGR)**.
