@@ -16,7 +16,7 @@ Este proyecto nació originalmente durante el **primer curso del Grado en Ingeni
 ---
 ## Demo
 
-![Demostración del juego]([assets/asteroides.gif](https://github.com/almuocon/asteroids-cpp-engine/blob/main/assets/asteroides.gif))
+![Demostración del juego](https://raw.githubusercontent.com/almuocon/asteroids-cpp-engine/main/assets/asteroides.gif)
 
 ---
 
